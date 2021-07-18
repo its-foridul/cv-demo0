@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(94, 91, 87);
+}
+
+
+
+.conteiner{
+    
+    max-width: 1000px;
+    background-color: cadetblue;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-bottom: 3px;
+}
+
+.conteiner img {
+    height: 100px;
+    width: 90px;
+    
+    padding: px;
+    border-radius: 50%;
+    float: left;
+    border: 2px solid black;
+
+}
+
+.conteiner img:hover{
+    opacity: .5;
+
+}
+
+
+.conteiner .name{
+    float: left;
+    padding: 25px;
+}
+
+.contact {
+    float: right;
+    text-decoration: none;
+
+    padding-top: 26px;
+    
+
+}
+
+.contact a{
+    color: white;
+    text-decoration: none;
+}
+
+.contact a:hover{
+
+    color: chartreuse;
+    text-decoration: none;
+
+}
+
+.clrdiv1{
+    clear: both;
+}
+
+hr{
+    border: solid black 5px ;
+    width: 100%;
+    border-bottom:  none;
+    border-right: none;
+    border-left:none ;
+}
+
+h5{
+    color: cornsilk;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+
+main{
+    background-color: cadetblue;
+
+}
+
+
+.tinfo{
+    float: left;
+    width: 30%;
+   
+    
+    
+}
+
+.dinfo{
+    margin:0;
+    width: 70%;
+    float:left;
+    
+    
+}
+
+
+
+ 
+.tinfo2{
+    float: left;
+    width: 30%;
+  
+    
+    
+    
+    
+}
+
+.dinfo2{
+    margin:0;
+    width: 70%;
+    
+    float:left;
+   
+    
+}
+
+
+.info2 .dinfo2 p{
+    
+    
+}
+
+
+.info3{
+    background-color: cornsilk;
+}
+
+.tinfo3{
+    
+    width: 30%;
+    float: left;
+}
+
+.dinfo3{
+    float: left;
+    width: 70%;
+    margin: 0;
+}
+
+.dinfo31{
+    
+    float: left;
+    width: 45%;
+}
+.dinfo32{
+    float: right;
+    width: 45%;
+}
+
+.dinfo3 a{
+    color: white;
+    text-decoration: none;
+}
+
+.dinfo3 a:hover{
+    color: tomato;
+}
+
+.hr2{
+    color: black;
+    border: 3px solid black;
+    border-bottom: none;
+}
+
+
+
+.footer{
+    width: 100%;
+    background-color: black;
+    padding-right: 6px;
+    text-align: center;
+    padding: 20px 0;
+
+
+
+}
+
+.footer a{
+    color: blanchedalmond;
+    text-decoration: none;
+    margin: 15px;
+    
+}
+
+.footer p{
+    color: white;
+    margin-top: 15px;
+}
+ 
+.span1{
+    color: blue;
+    font-size: 150%;
+}
+
+.span2{
+    color: crimson;
+    font-size: 150%;
+}
+
+
+
+
+
+
+
+
